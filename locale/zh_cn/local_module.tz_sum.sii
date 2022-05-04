@@ -1,0 +1,29 @@
+SiiNunit
+{
+localization_db : .localization
+{
+## time_zone
+
+key[]: "tz_samt"
+val[]: "萨马拉时间"
+
+key[]: "tz_yekt"
+val[]: "叶卡捷琳堡时间"
+
+key[]: "tz_omst"
+val[]: "鄂木斯克时间"
+
+key[]: "tz_krat"
+val[]: "克拉斯诺亚尔斯克时间"
+
+key[]: "tz_novt"
+val[]: "新西伯利亚时间"
+
+key[]: "tz_aqtt"
+val[]: "阿克托比时间"
+
+key[]: "tz_almt"
+val[]: "阿拉木图时间"
+
+}
+}

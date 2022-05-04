@@ -1,0 +1,322 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+  	key[]: "barabinsk"
+  	val[]: "巴拉宾斯克"
+
+  	key[]: "barnaul"
+  	val[]: "巴尔瑙尔"
+
+  	key[]: "chelyabinsk"
+  	val[]: "车里雅宾斯克"
+
+  	key[]: "ekaterinburg"
+  	val[]: "叶卡捷琳堡"
+
+  	key[]: "golishmanovo"
+  	val[]: "戈雷什马诺沃"
+
+  	key[]: "hmansiysk"
+  	val[]: "汉特-曼西斯克"
+
+  	key[]: "ishim"
+  	val[]: "伊希姆"
+
+  	key[]: "izhevsk"
+  	val[]: "伊热夫斯克"
+
+  	key[]: "kamenskur"
+  	val[]: "乌拉尔地区卡缅斯克"
+
+  	key[]: "kartaly"
+  	val[]: "卡尔塔雷"
+
+  	key[]: "kemerovo"
+  	val[]: "克麦罗沃"
+
+  	key[]: "kirov"
+  	val[]: "基洛夫"
+
+  	key[]: "kurgan"
+  	val[]: "库尔干"
+
+  	key[]: "magnitogorsk"
+  	val[]: "马格尼托哥尔斯克"
+
+  	key[]: "miass"
+  	val[]: "米阿斯"
+
+  	key[]: "naberezhniechelny"
+  	val[]: "卡马河畔切尔尼"
+
+  	key[]: "neftekamsk"
+  	val[]: "涅夫捷卡姆斯克"
+
+  	key[]: "nizhnekamsk"
+  	val[]: "下卡姆斯克"
+
+  	key[]: "nizhniytagil"
+  	val[]: "下塔吉尔"
+
+  	key[]: "novosibirsk"
+  	val[]: "新西伯利亚"
+
+  	key[]: "omsk"
+  	val[]: "鄂木斯克"
+
+  	key[]: "orsk"
+  	val[]: "奥尔斯克"
+
+  	key[]: "orenburg"
+  	val[]: "奥伦堡"
+
+  	key[]: "perm"
+  	val[]: "彼尔姆"
+
+  	key[]: "rubtsovsk"
+  	val[]: "鲁布佐夫斯克"
+
+  	key[]: "shadrinsk"
+  	val[]: "沙德林斯克"
+
+  	key[]: "shumikha"
+  	val[]: "舒米哈"
+
+  	key[]: "sibai"
+  	val[]: "锡拜"
+
+  	key[]: "sterlitamak"
+  	val[]: "斯捷尔利塔马克"
+
+  	key[]: "surgut"
+  	val[]: "苏尔古特"
+
+  	key[]: "tobolsk"
+  	val[]: "托博尔斯克"
+
+  	key[]: "tomsk"
+  	val[]: "托木斯克"
+
+  	key[]: "troitsk"
+  	val[]: "特罗伊茨克"
+
+  	key[]: "tumen"
+  	val[]: "秋明"
+
+  	key[]: "ufa"
+  	val[]: "乌法"
+
+  	key[]: "makushino"
+  	val[]: "马库希诺"
+
+  	key[]: "isetskoe"
+  	val[]: "伊谢茨科耶"
+
+  	key[]: "berduzhie"
+  	val[]: "别尔久日耶"
+
+  	key[]: "isilkul"
+  	val[]: "伊西利库尔"
+
+#  	key[]: "cherlak"
+#  	val[]: "Черлак"
+
+  	key[]: "tukalinsk"
+  	val[]: "秋卡林斯克"
+
+  	key[]: "tatarsk"
+  	val[]: "鞑靼斯克"
+
+#  	key[]: "yarkovo"
+#  	val[]: "Ярково"
+
+  	key[]: "kamishlov"
+  	val[]: "卡梅什洛夫"
+
+  	key[]: "zlatoust"
+  	val[]: "兹拉托乌斯特"
+
+  	key[]: "ustkatav"
+  	val[]: "乌斯季-卡塔夫"
+
+  	key[]: "almetievsk"
+  	val[]: "阿尔梅季耶夫斯克"
+
+  	key[]: "oktyabrskiy"
+  	val[]: "十月区"
+
+  	key[]: "kungur"
+  	val[]: "昆古尔"
+
+  	key[]: "krasnoufimsk"
+  	val[]: "克拉斯诺乌菲姆斯克"
+
+#  	key[]: "uvat"
+#  	val[]: "Уват"
+
+  	key[]: "kargat"
+  	val[]: "卡尔加特"
+
+  	key[]: "chulim"
+  	val[]: "丘雷姆"
+
+#  	key[]: "mishkino"
+#  	val[]: "Мишкино"
+
+  	key[]: "berdsk"
+  	val[]: "别尔茨克"
+
+  	key[]: "iskitim"
+  	val[]: "伊斯基季姆"
+
+  	key[]: "cherepanovo"
+  	val[]: "切列帕诺沃"
+
+  	key[]: "biysk"
+  	val[]: "比斯克"
+
+  	key[]: "yalutorovsk"
+  	val[]: "亚卢托罗夫斯克"
+
+  	key[]: "belozerskoe"
+  	val[]: "比洛泽尔西克"
+  	
+        key[]: "zavodoukovsk"
+  	val[]: "扎沃多乌科夫斯克"
+
+  	key[]: "varnach"
+  	val[]: "瓦尔纳"
+
+# 	key[]: "bredy"
+# 	val[]: "Бреды"
+
+  	key[]: "chesma"
+  	val[]: "切斯马"
+
+  	key[]: "novoorsk"
+  	val[]: "新奥尔斯克"
+
+  	key[]: "novotroitsk"
+  	val[]: "新特罗伊茨克"
+
+#  	key[]: "tulgan"
+#  	val[]: "Тюльган"
+
+  	key[]: "ishimbai"
+  	val[]: "伊希姆拜"
+
+  	key[]: "salavat"
+  	val[]: "萨拉瓦特"
+
+  	key[]: "krutinka"
+  	val[]: "克鲁京卡"
+
+  	key[]: "krasnyyar"
+  	val[]: "红亚尔"
+
+  	key[]: "kalachinsk"
+  	val[]: "卡拉钦斯克"
+
+  	key[]: "aleysk"
+  	val[]: "阿列伊斯克"
+
+#  	key[]: "urga"
+#  	val[]: "Югра"
+
+  	key[]: "langepas"
+  	val[]: "兰格帕斯"
+
+  	key[]: "nvartovsk"
+  	val[]: "下瓦尔托夫斯克"
+
+#  	key[]: "sim"
+#  	val[]: "Сим"
+
+  	key[]: "petuhovo"
+  	val[]: "佩图霍沃"
+
+  	key[]: "vargashi"
+  	val[]: "瓦尔加希"
+
+  	key[]: "chastoozerie"
+  	val[]: "Частоозерье"
+
+  	key[]: "chishmy"
+  	val[]: "奇什梅"
+
+  	key[]: "kargapolie"
+  	val[]: "卡尔加波利耶"
+
+  	key[]: "dalmatovo"
+  	val[]: "达尔马托沃"
+
+  	key[]: "ubinskoe"
+  	val[]: "乌宾斯科耶"
+
+#  	key[]: "chany"
+#  	val[]: "Чаны"
+
+  	key[]: "sarapul"
+  	val[]: "萨拉普尔"
+
+#  	key[]: "igra"
+#  	val[]: "Игра"
+
+  	key[]: "beloretsk"
+  	val[]: "别洛列茨克"
+
+  	key[]: "uzhnouralsk"
+  	val[]: "南乌拉尔斯克"
+
+  	key[]: "aromashevo"
+  	val[]: "阿罗马舍沃"
+
+  	key[]: "vagay"
+  	val[]: "瓦盖"
+
+  	key[]: "revda"
+  	val[]: "列夫达"
+
+#  	key[]: "abatskoe"
+#  	val[]: "Абатское"
+
+  	key[]: "chusovoy"
+  	val[]: "丘索沃伊"
+
+#  	key[]: "akyar"
+#  	val[]: "Акъяр"
+
+  	key[]: "satka"
+  	val[]: "萨特卡"
+
+#  	key[]: "boltavra"
+#  	val[]: "Большая Тавра"
+
+#  	key[]: "mesyagutovo"
+#  	val[]: "Месягутово"
+
+  	key[]: "verhneuralsk"
+  	val[]: "上乌拉尔斯克"
+
+#  	key[]: "formachevo"
+#  	val[]: "ст. Формачево"
+
+  	key[]: "gay"
+  	val[]: "盖伊"
+
+  	key[]: "baymak"
+  	val[]: "拜马克"
+
+#  	key[]: "isyang"
+#  	val[]: "Исянгулово"
+
+#  	key[]: "urgaza"
+#  	val[]: "Ургаза"
+
+#  	key[]: "planoviy"
+#  	val[]: "Плановый"
+
+}
+}
