@@ -1,0 +1,109 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+  	key[]: "adler"
+  	val[]: "阿德列尔"
+
+  	key[]: "anapa"
+  	val[]: "阿纳帕"
+
+  	key[]: "aksai"
+  	val[]: "阿克赛"
+
+  	key[]: "apsheronsk"
+  	val[]: "阿普歇伦斯克"
+
+  	key[]: "armavir"
+  	val[]: "阿尔马维尔"
+
+  	key[]: "b_kalitva"
+  	val[]: "白卡利特瓦"
+
+  	key[]: "cherkessk"
+  	val[]: "切尔克斯"
+
+  	key[]: "eisk"
+  	val[]: "叶伊斯克"
+
+  	key[]: "gelendshik"
+  	val[]: "格连吉克"
+
+  	key[]: "gorkluch"
+  	val[]: "戈里亚奇克柳奇"
+
+  	key[]: "haduzhensk"
+  	val[]: "哈德任斯克"
+
+  	key[]: "kamensk"
+  	val[]: "卡缅斯克-沙赫京斯基"
+
+  	key[]: "karachaevsk"
+  	val[]: "卡拉恰耶夫斯克"
+
+  	key[]: "korenovsk"
+  	val[]: "科列诺夫斯克"
+
+  	key[]: "krasnodar"
+  	val[]: "克拉斯诺达尔"
+
+  	key[]: "krimsk"
+  	val[]: "克雷姆斯克"
+
+  	key[]: "kropotkin"
+  	val[]: "克鲁泡特金"
+
+  	key[]: "maykop"
+  	val[]: "迈科普"
+
+  	key[]: "morozovsk"
+  	val[]: "莫罗佐夫斯克"
+
+  	key[]: "nevinnomyssk"
+  	val[]: "内文诺梅斯克"
+
+  	key[]: "novoa_sk"
+  	val[]: "新亚历山德罗夫斯克"
+
+  	key[]: "novorossiysk"
+  	val[]: "新罗西斯克"
+
+  	key[]: "pavlovsk"
+  	val[]: "巴甫洛夫斯克"
+
+  	key[]: "rostov"
+  	val[]: "顿河畔罗斯托夫"
+
+  	key[]: "sem_sk"
+  	val[]: "谢米卡拉科尔斯克"
+
+  	key[]: "shahtu"
+  	val[]: "沙赫蒂"
+	
+	key[]: "slavyansk"
+  	val[]: "斯拉维扬斯克"
+
+	key[]: "sochi"
+  	val[]: "索契"
+
+	key[]: "stavropol"
+  	val[]: "斯塔夫罗波尔"
+
+  	key[]: "ticoreck"
+  	val[]: "季霍列茨克"
+
+  	key[]: "timashevsk"
+  	val[]: "季马绍夫斯克"
+
+    key[]: "tuapse"
+    val[]: "图阿普谢"
+
+  	key[]: "ustdjeguta"
+  	val[]: "乌斯季杰古塔"
+
+  	key[]: "ust_labinsk"
+  	val[]: "乌斯季-拉宾斯克"
+	
+}
+} 
