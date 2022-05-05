@@ -1,0 +1,58 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+key[]: "buguruslan"
+val[]: "布古鲁斯兰"
+
+key[]: "buzuluk"
+val[]: "布祖卢克"
+
+key[]: "elshanka"
+val[]: "elshanka"
+
+key[]: "kurumoch"
+val[]: "库鲁莫奇"
+
+key[]: "novospasskoe"
+val[]: "新斯帕斯科耶"
+
+key[]: "samara"
+val[]: "萨马拉"
+
+key[]: "senn"
+val[]: "senn"
+
+key[]: "sizran"
+val[]: "塞兹兰"
+
+key[]: "sizran1"
+val[]: "sizran1"
+
+key[]: "sizran2"
+val[]: "sizran2"
+
+key[]: "sizran3"
+val[]: "sizran3"
+
+key[]: "tollyatti"
+val[]: "陶里亚蒂"
+
+key[]: "tollyatti2"
+val[]: "tollyatti2"
+
+key[]: "volsk"
+val[]: "沃利斯克"
+
+key[]: "volzskiy"
+val[]: "伏尔加斯基"
+
+key[]: "zelenovka"
+val[]: "zelenovka"
+
+key[]: "zhigulevsk"
+val[]: "日古廖夫斯克"
+
+}
+}
