@@ -1,0 +1,13 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+key[]: "chongju"
+val[]: "定州市"
+
+key[]: "sinuiju"
+val[]: "新义州市"
+
+}
+}
