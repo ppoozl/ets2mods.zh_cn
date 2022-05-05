@@ -3,6 +3,9 @@ SiiNunit
 localization_db : .localization
 {
 
+key[]: "tz_msk"
+val[]: "莫斯科时间"
+
 key[]: "tz_samt"
 val[]: "萨马拉时间"
 
