@@ -1,0 +1,190 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+# Cities
+
+	key[]: "aktobe"
+	val[]: "阿克托别"
+	
+	key[]: "atyrau"
+	val[]: "阿特劳"
+
+	key[]: "uralsk"
+	val[]: "乌拉尔"
+	
+#	key[]: "zhympity"
+#	val[]: "Жимпеты"
+	
+#	key[]: "dossor"
+#	val[]: "Доссор"
+	
+	key[]: "furmanovo"
+	val[]: "Фурманово"
+	
+#	key[]: "kobda"
+#	val[]: "Кобда"
+	
+	key[]: "kulsari"
+	val[]: "库利萨雷"
+	
+	key[]: "beyneu"
+	val[]: "别伊涅乌"
+	
+	key[]: "aktau"
+	val[]: "阿克套"
+	
+#	key[]: "temir"
+#	val[]: "Темир"
+	
+#	key[]: "makat"
+#	val[]: "Макат"
+	
+#	key[]: "kandyagash"
+#	val[]: "Кандыагаш"
+	
+#	key[]: "inderborsky"
+#	val[]: "Индерборский"
+	
+	key[]: "karaganda"
+	val[]: "卡拉干达"
+	
+	key[]: "shahtinsk"
+	val[]: "沙赫京斯克"
+	
+#    key[]: "kievka"
+#	val[]: "Киевка"
+
+    key[]: "osakarovka"
+	val[]: "Осакаровка"
+	
+	key[]: "atasu"
+	val[]: "Атасу"
+
+#    key[]: "agadyr"
+#	val[]: "Агадырь"
+	
+#	key[]: "akshatau"
+#  	val[]: "Акшатау"
+
+#    key[]: "aksuayuly"
+#	val[]: "Аксу-Аюлы"
+	
+	key[]: "astana"
+	val[]: "努尔苏丹"
+	
+	key[]: "temirtau"
+	val[]: "铁米尔套"
+
+    key[]: "saran"
+	val[]: "萨兰"
+	
+	key[]: "zharik"
+  	val[]: "Жарык"
+
+#    key[]: "molodezhniy"
+#	val[]: "Молодёжный"
+	
+	key[]: "botakara"
+	val[]: "博塔卡拉"
+	
+	key[]: "korneevka"
+	val[]: "Корнеевка"
+
+    key[]: "karkaralinsk"
+	val[]: "卡尔卡拉雷"
+	
+	key[]: "bayanaul"
+  	val[]: "巴彦阿乌尔"
+
+    key[]: "balkhash"
+	val[]: "巴尔喀什湖" 
+	
+#	key[]: "koktenkol"
+#	val[]: "Коктенколь"
+	
+	key[]: "ekibastuz"
+	val[]: "埃基巴斯图兹"
+	
+	key[]: "kyzylorda"
+	val[]: "克孜勒奥尔达"
+
+    key[]: "zhezkazgan"
+	val[]: "杰兹卡兹甘"
+	
+#	key[]: "vishnevka"
+#  	val[]: "Вишнёвка"
+
+    key[]: "zhanaozen"
+	val[]: "扎瑙津" 
+	
+#	key[]: "akshat"
+#	val[]: "Акшат"
+	
+#	key[]: "mukur"
+#	val[]: "Мукур"
+	
+#	key[]: "alga"
+#	val[]: "Алга"
+
+#    key[]: "shubarkuduk"
+#	val[]: "Шубаркудук"
+	
+	key[]: "kostanay"
+  	val[]: "库斯塔奈"
+
+    key[]: "rudnyy"
+	val[]: "鲁德内" 
+	
+#	key[]: "khromtau"
+#	val[]: "Хромтау"
+	
+	key[]: "kokshetau"
+  	val[]: "科克舍套"
+
+    key[]: "lisakovsk"
+	val[]: "利萨科夫斯克" 
+	
+#	key[]: "zatobolsk"
+#	val[]: "Затобольск"
+
+#	key[]: "karabutak"
+#	val[]: "Карабутак"
+	
+#	key[]: "saiotes"
+#	val[]: "Сайотес"
+	
+	key[]: "mangystau"
+	val[]: "曼吉斯套"
+	
+	key[]: "shetpe"
+	val[]: "Шетпе"
+	
+	key[]: "turkestan"
+	val[]: "突厥斯坦"
+	
+	key[]: "shymkent"
+	val[]: "希姆肯特"
+	
+	key[]: "aralsk"
+	val[]: "阿拉尔"
+
+#	key[]: "emba"
+#	val[]: "Эмба"
+	
+	key[]: "shalkar"
+	val[]: "沙尔卡尔"
+	
+#	key[]: "tobol"
+#	val[]: "Тобол"
+	
+	key[]: "karabalyk"
+	val[]: "卡拉巴雷克"
+
+    key[]: "ershov"
+	val[]: "叶尔绍夫"
+
+	
+}
+}
