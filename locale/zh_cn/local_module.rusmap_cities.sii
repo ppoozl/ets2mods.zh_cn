@@ -1,0 +1,302 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+##Russia
+
+  	key[]: "borisoglebsk"
+  	val[]: "鲍里索格列布斯克"
+
+  	key[]: "bryansk"
+  	val[]: "布良斯克"
+
+  	key[]: "engels"
+  	val[]: "恩格斯城"
+
+  	key[]: "kaluga"
+  	val[]: "卡卢加"
+
+  	key[]: "kem"
+  	val[]: "凯姆"
+
+  	key[]: "kholm"
+  	val[]: "霍尔姆"
+
+  	key[]: "klin"
+  	val[]: "克林"
+
+  	key[]: "kolomna"
+  	val[]: "科洛姆纳"
+
+  	key[]: "krasnoslobodsk"
+  	val[]: "克拉斯诺斯洛博茨克"
+
+  	key[]: "kursk"
+  	val[]: "库尔斯克"
+
+  	key[]: "velikiye_luki"
+  	val[]: "大卢基"
+
+  	key[]: "medvezhyegorsk"
+  	val[]: "梅德韦日耶戈尔斯克"
+
+  	key[]: "moscow"
+  	val[]: "莫斯科"
+
+  	key[]: "nevel"
+  	val[]: "涅韦尔"
+
+  	key[]: "veliky_novgorod"
+  	val[]: "大诺夫哥罗德"
+
+  	key[]: "obninsk"
+  	val[]: "奥布宁斯克"
+
+  	key[]: "orel"
+  	val[]: "奥廖尔"
+
+  	key[]: "ostashkov"
+  	val[]: "奥斯塔什科夫"
+
+  	key[]: "petrozavodsk"
+  	val[]: "彼得罗扎沃茨克"
+
+  	key[]: "lodeynoye_pole"
+  	val[]: "洛杰伊诺耶波列"
+
+  	key[]: "porkhov"
+  	val[]: "波尔霍夫"
+
+  	key[]: "priozersk"
+  	val[]: "普里奥焦尔斯克"
+
+  	key[]: "rzhev"
+  	val[]: "勒热夫"
+
+  	key[]: "roslavl"
+  	val[]: "罗斯拉夫尔"
+
+  	key[]: "saratov"
+  	val[]: "萨拉托夫"
+
+  	key[]: "shlisselburg"
+  	val[]: "什利谢利堡"
+
+  	key[]: "smolensk"
+  	val[]: "斯摩棱斯克"
+
+  	key[]: "sortavala"
+  	val[]: "索尔塔瓦拉"
+
+  	key[]: "suoyarvi"
+  	val[]: "苏奥耶尔维"
+
+  	key[]: "tambov"
+  	val[]: "坦波夫"
+
+  	key[]: "tula"
+  	val[]: "图拉"
+
+  	key[]: "tver"
+  	val[]: "特维尔"
+
+  	key[]: "valday"
+  	val[]: "瓦尔代"
+
+  	key[]: "velizh"
+  	val[]: "韦利日"
+
+  	key[]: "volgograd"
+  	val[]: "伏尔加格勒"
+
+  	key[]: "vyshny_volochyok"
+  	val[]: "上沃洛乔克"
+
+  	key[]: "volokolamsk"
+  	val[]: "沃洛科拉姆斯克"
+
+  	key[]: "volzhsky"
+  	val[]: "伏尔加斯基"
+
+  	key[]: "voronezh"
+  	val[]: "沃罗涅日"
+
+  	key[]: "vyazma"
+  	val[]: "维亚济马"
+
+  	key[]: "yukhnov"
+  	val[]: "尤赫诺夫"
+
+  	key[]: "zelenoborsky"
+  	val[]: "泽列诺博尔斯基"
+
+#  	key[]: "razmetelevo"
+#  	val[]: "Razmetelevo"
+
+  	key[]: "tosno"
+  	val[]: "托斯诺"
+
+  	key[]: "tihvin"
+  	val[]: "季赫温"
+
+  	key[]: "astrakhan"
+  	val[]: "阿斯特拉罕"
+
+  	key[]: "belgorod"
+  	val[]: "别尔哥罗德"
+
+  	key[]: "elista"
+  	val[]: "埃利斯塔"
+
+  	key[]: "kandalaksha_rm"
+  	val[]: "坎达拉克沙"
+
+  	key[]: "lipetsk"
+  	val[]: "利佩茨克"
+
+  	key[]: "moncheg_rm"
+  	val[]: "蒙切戈尔斯克"
+
+  	key[]: "murmansk_rm"
+  	val[]: "摩尔曼斯克"
+
+#  	key[]: "nikel_rm"
+#  	val[]: "Nikel"
+
+  	key[]: "nikolskoe"
+  	val[]: "尼科利斯科耶"
+
+#  	key[]: "sadovoe"
+#  	val[]: "Sadovoye"
+
+#  	key[]: "yashkul"
+#  	val[]: "Yashkul"
+
+  	key[]: "alakurtti_rm"
+  	val[]: "阿拉库尔季"
+
+  	key[]: "apatity_rm"
+  	val[]: "阿帕季特"
+
+  	key[]: "zaozyorsk_rm"
+  	val[]: "扎奥焦尔斯克"
+
+  	key[]: "kovdor_rm"
+  	val[]: "科夫多尔"
+
+  	key[]: "pechenga_rm"
+  	val[]: "佩琴加"
+
+  	key[]: "segezha_rm"
+  	val[]: "谢格扎"
+
+  	key[]: "snezhn_rm"
+  	val[]: "斯涅日诺戈尔斯克"
+
+  	key[]: "kolpino"
+  	val[]: "科尔皮诺"
+
+  	key[]: "kola_rm"
+  	val[]: "科拉"
+
+##2.4.3
+
+#  	key[]: "alehovshina"
+# 	val[]: "Alyokhovshchina"
+
+  	key[]: "boksitogorsk"
+  	val[]: "博克西托戈尔斯克"
+
+  	key[]: "elec"
+  	val[]: "叶列茨"
+
+  	key[]: "kirishi"
+  	val[]: "基里希"
+
+  	key[]: "kirovsk_rm"
+  	val[]: "基洛夫斯克"
+
+  	key[]: "novomoskovsk"
+  	val[]: "新莫斯科斯克"
+
+  	key[]: "penza"
+  	val[]: "奔萨"
+
+  	key[]: "pikalevo"
+  	val[]: "皮卡廖沃"
+
+  	key[]: "sazonovo"
+  	val[]: "萨佐诺沃"
+
+#  	key[]: "vinnicy"
+#  	val[]: "Vinnitsy"
+
+  	key[]: "kingisepp"
+  	val[]: "金吉谢普"
+
+
+##Belarus
+
+  	key[]: "bobruisk"
+  	val[]: "博布鲁伊斯克"
+
+  	key[]: "baranavichy"
+  	val[]: "巴拉诺维奇"
+
+  	key[]: "gomel"
+  	val[]: "戈梅利"
+
+  	key[]: "grodno"
+  	val[]: "格罗德诺"
+
+  	key[]: "lida"
+  	val[]: "利达"
+
+  	key[]: "minsk"
+  	val[]: "明斯克"
+
+  	key[]: "mahilyow"
+  	val[]: "莫吉廖夫"
+
+  	key[]: "mazyr"
+  	val[]: "莫济里"
+
+  	key[]: "mstsislaw"
+  	val[]: "姆斯齐斯拉夫"
+
+  	key[]: "orsha"
+  	val[]: "奥尔沙"
+
+  	key[]: "pinsk"
+  	val[]: "平斯克"
+
+  	key[]: "slauharad"
+  	val[]: "斯拉夫戈罗德"
+
+  	key[]: "slonim"
+  	val[]: "斯洛尼姆"
+
+  	key[]: "slutsk"
+  	val[]: "斯卢茨克"
+
+  	key[]: "vitebsk"
+  	val[]: "维捷布斯克"
+
+  	key[]: "volkovysk"
+  	val[]: "瓦夫卡维斯克"
+
+  	key[]: "miadel"
+  	val[]: "米亚德利"
+
+  	key[]: "molodechno"
+  	val[]: "莫洛杰奇诺"
+
+  	key[]: "polotsk"
+  	val[]: "波洛茨克"
+  	
+  	key[]: "glubokoe"
+  	val[]: "格卢博科耶"
+
+}
+} # wik412
